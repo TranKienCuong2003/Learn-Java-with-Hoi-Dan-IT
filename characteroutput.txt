@@ -1,0 +1,100 @@
+TAI LIEU KHOA HOC "Java Core"
+
+Tac gia: Hoi Dan IT & Eric
+Version: 1.0
+Note cap nhat:
+
+Update tai lieu khoa hoc
+Khoa Hoc Java Core
+
+Youtube Channel 'Hoi Dan IT'
+Chapter 0: Introduction
+
+#0. Demo Ket qua dat duoc
+
+Chapter 1: Lab 01
+#1. Java la gi ?
+#2. Setup Java
+#3. Hello world with Java
+#4. Setup Spring Tool Suite
+#5. Variables (Khai niem bien)
+#6. Cac ham xuat ra man hinh
+#7. Cac ham toan hoc
+#8. Bai tap Lab 01
+#9. Chua bai tap Lab 01
+
+Chapter 2: Lab 02
+#10. Java Data Types (Kieu du lieu)
+#11. Java Operators (Toan Tu)
+#12. Java If...Else
+#13. Java Switch
+#14. Bai tap Lab 02
+#15. Chua bai tap Lab 02
+
+Chapter 3: Lab 03
+#16. Vong lap (Loop)
+#17. Array
+#18. Luyen tap Array va Loop
+#19. Bai tap Lab 03
+#20. Chua bai tap Lab 03
+
+Chapter 4: Lab 04
+#21. Lap trinh huong doi tuong (OOP) la gi ?
+#22. Khai niem Class va Object
+#23. Thuc hanh tao Class/Object
+#24. Class Attributes (Thuoc tinh cua Class)
+#25. Class Method (Phuong thuc cua class)
+#26. Dinh nghia ham tao (constructor)
+#27. Access Modifier (private/public/protected)
+#28. Encapsulation
+#29. Bai tap Lab 04
+#30. Chua bai tap Lab 04
+
+Chapter 5: Lab 05
+#31. Non-primitive(reference) data type
+#32. Java Autoboxing/Unboxing (Object wrapper class)
+#33. ArrayList la gi ?
+#34. Java Generics (Basic)
+#35. Bai tap Lab 05
+#36. Chua bai tap lab 05
+
+Chapter 6: Lab 06
+#37. String (Chuoi)
+#38. Bai tap su dung String
+#39. Regular Expression
+#40. Bai tap Regular Expression
+
+Chapter 7: Lab 07
+#41. Java Inheritance
+#42. Super Keyword trong Java
+#43. Abstract Class (Basic)
+#44. Polymorphism (Tinh da hinh)
+#45. Bai tap Lab 07
+#46. Chua bai tap Lab 07
+
+Chapter 8: Lab 8
+#47. Interface
+#48. Interface voi Java 8
+#49. Java Package
+#50. Bai tap Lab 08
+#51. Chua bai tap Lab 08
+
+Chapter 9: Lab 09
+#52. Try...catch
+#53. Keyword finally
+#54. Keyword Throws va Throw
+#55. Bai tap Lab 09
+#56. Chua bai tap Lab 09
+
+Chapter 10: Lab 10
+#57. Tong quan ve Java IO (Stream)
+#58. Phan loai Stream voi Java IO
+#59. Vi du ve Read/Write File
+#60. Path Class
+
+Chapter 11: Lab 11
+#61. Processes and Threads
+#62. Thread Objects
+#63. What's next ? Tong ket cac kien thuc da hoc
+
+Loi Ket
